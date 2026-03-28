@@ -32,8 +32,8 @@ export async function getGalleryItems(): Promise<GalleryItem[]> {
                 id: parseInt(number),
                 title: `Kerala Mural Painting ${number}`,
                 description: 'Traditional Kerala mural painting.',
-                image: `/images/gallery/${file}`,
-                thumbnail: `/images/gallery/${file}`,
+                image: `/kerala-mural-paintings/images/gallery/${file}`,
+                thumbnail: `/kerala-mural-paintings/images/gallery/${file}`,
                 category: 'Traditional',
                 year: new Date().getFullYear().toString(),
             }

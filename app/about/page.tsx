@@ -59,7 +59,7 @@ export default function About() {
             </div>
             <div className="rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="/images/artist.png"
+                src="/kerala-mural-paintings/images/artist.png"
                 alt="Late Artist B. Ramesan - Founder of Susheela Arts"
                 className="w-full h-full object-cover"
               />

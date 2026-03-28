@@ -10,7 +10,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-black/60 z-10" />
           <img
-            src="/images/background.jpg"
+            src="/kerala-mural-paintings/images/background.jpg"
             alt="Background"
             className="w-full h-full object-cover"
           />
@@ -69,7 +69,7 @@ export default function Home() {
             <div className="bg-gradient-to-br from-primary-100 to-primary-200 rounded-lg p-8 shadow-lg">
               <div className="aspect-square flex items-center justify-center relative overflow-hidden rounded-lg">
                 <Image
-                  src="/images/home.png"
+                  src="/kerala-mural-paintings/images/home.png"
                   alt="Traditional Kerala Mural Art"
                   fill
                   className="object-cover"
