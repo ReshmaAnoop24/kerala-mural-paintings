@@ -81,11 +81,11 @@ export default function About() {
                 Kerala murals are known for their distinctive color scheme, traditionally using five primary colors:
               </p>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
-                <li><strong>Yellow (Pachcha):</strong> Derived from laterite soil</li>
-                <li><strong>Red (Chuvanna):</strong> Made from red ochre</li>
-                <li><strong>Green (Neela):</strong> Created from green leaves</li>
-                <li><strong>White (Vella):</strong> From lime or shell powder</li>
-                <li><strong>Black (Karuppu):</strong> From lamp black or charcoal</li>
+                <li><strong>Yellow :</strong> Derived from laterite soil</li>
+                <li><strong>Red :</strong> Made from red ochre</li>
+                <li><strong>Green :</strong> Created from green leaves</li>
+                <li><strong>White :</strong> From lime or shell powder</li>
+                <li><strong>Black :</strong> From lamp black or charcoal</li>
               </ul>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md">
