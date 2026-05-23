@@ -23,7 +23,7 @@ export default function Navigation() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
               <Image
-                src="/kerala-mural-paintings/images/logo.png"
+                src="/images/logo.png"
                 alt="Kerala Murals Logo"
                 width={220}
                 height={73}
